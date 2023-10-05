@@ -33,3 +33,6 @@ git clone https://github.com/defimov9/how-to-learn.git
 ```
 start index.html
 ```
+
+## Ссылка на Github Pages
+https://defimov9.github.io/how-to-learn/
